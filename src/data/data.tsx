@@ -45,7 +45,7 @@ import FacebookIcon from '../components/Icon/FacebookIcon';
  * Page meta data
  */
 export const homePageMeta: HomepageMeta = {
-  title: 'React Resume',
+  title: 'Welcome to My Profile',
   description: "",
 };
 
@@ -60,7 +60,7 @@ export const SectionId = {
   Resume: 'resume',
   Skills: 'skills',
   Stats: 'stats',
-  Testimonials: 'testimonials',
+  // Testimonials: 'testimonials',
 } as const;
 
 export type SectionId = (typeof SectionId)[keyof typeof SectionId];
