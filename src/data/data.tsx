@@ -104,12 +104,12 @@ export const aboutData: About = {
   description: `"My name is Phoomtanits Chumchuen, with a strong interest in becoming a full-stack developer.
   I have experience using in frameworks like Angular, React, Node.js, and MongoDB, my decision-making process is guided by a cause-and-effect approach.and I maintain a positive outlook on the world."`,
   aboutItems: [
-    {label: 'Location', text: 'Victoria, BC', Icon: MapIcon},
-    {label: 'Age', text: '29', Icon: CalendarIcon},
-    {label: 'Nationality', text: 'Canadian / Irish', Icon: FlagIcon},
-    {label: 'Interests', text: 'Motorcycles, Muay Thai, Banjos', Icon: SparklesIcon},
-    {label: 'Study', text: 'University of Victoria', Icon: AcademicCapIcon},
-    {label: 'Employment', text: 'Instant Domains, inc.', Icon: BuildingOffice2Icon},
+    {label: 'Location', text: 'Bangkok, Thailand', Icon: MapIcon},
+    {label: 'Age', text: '23', Icon: CalendarIcon},
+    {label: 'Nationality', text: 'Thai', Icon: FlagIcon},
+    {label: 'Interests', text: 'Gun, Anime and Guitar', Icon: SparklesIcon},
+    {label: 'Study', text: 'Rajamangala University of Technology', Icon: AcademicCapIcon},
+    {label: 'Employment', text: 'National Telecom Public Company Limited', Icon: BuildingOffice2Icon},
   ],
 };
 
